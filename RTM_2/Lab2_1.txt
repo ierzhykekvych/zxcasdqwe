@@ -1,0 +1,22 @@
+(14:44:38) INF_LOAD:Starting... Lab2_1
+(14:44:38) INF_RTM:Detected NT6.RTM 6.2 
+(14:44:38) INF_RTM:Base TRACE MODE 6 Profiler T-Factory RTM+  ver. 6.08.0 
+(14:44:38) ._.:RTM 
+(14:44:38) INF_LOAD:max channel = 65535
+(14:44:38) INF_LOAD:Load Channels = 31
+(14:44:38) INF_LOAD:Templates=3 (math=0 sql=0 scr=3 doc=0 pnl=0) 
+(14:44:38) INF_LOAD:Objects = 3
+(14:44:38) INF_RTM:Timer=0.055s CalcLoop=550ms 
+(14:44:38) INF_LOAD:LoadTime=0.028s CalcPeriod=550ms 
+(14:44:38) INF_RTM:free_mem=2962(2983) handle=0 user=0 gui=0  after load
+(14:44:38) INF_RTM:DayLight enabled 
+(14:44:42) INF_RTM:ModeSwitch e15=0000 e18=0000 e20=0000 [0] 
+(14:44:42) INF_RTM:mode=2(Work) e15=00 e18=00 e20=00 [0-0-src4] 
+(14:44:42) INF_RTM:start time is 0.013 s 
+(14:44:42) INF_RTM:free_mem=2962 handle=0 user=0 gui=0  after start
+(14:44:42) INF_GRAPH:popup=0 scrref=0 trend=1,0 update=1 
+(14:45:4) INF_RTM:stoping... 
+(14:45:5) INF_RTM:mode=5(Stop) e15=00 e18=00 e20=00 [0-0-src0] 
+(14:45:5) INF_RTM:stop time is 1.962 s 
+(14:45:5) INF_RTM:number of calculation = 38
+(14:45:5) INF_RTM:END OF WORK 

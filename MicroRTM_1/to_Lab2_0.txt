@@ -1,0 +1,5 @@
+INF_LOAD:Node=0 tags=36 templates=0 obj=3 
+INF_LOAD:Max: tags=16777215 templates=32767 obj=32767 
+INF_LOAD:Node type=90910000 
+INF_LOAD:MicroRTM_1 
+INF_LOAD:Found CH=18 Resource=0 ExtResurce=0 

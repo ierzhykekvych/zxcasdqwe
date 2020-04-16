@@ -1,0 +1,23 @@
+INF_LOAD:Node=1 tags=60 templates=3 obj=6 
+INF_LOAD:Max: tags=16777215 templates=32767 obj=32767 
+INF_LOAD:Node type=90901000 
+INF_LOAD:RTM_2 
+ERR_LOAD:AI_1_from_MFC not found interface 
+ERR_LOAD:Канал#2 not found interface 
+ERR_LOAD:Канал#3 not found interface 
+ERR_LOAD:Канал#4 not found interface 
+ERR_LOAD:Канал#5 not found interface 
+ERR_LOAD:Канал#6 not found interface 
+ERR_LOAD:Канал#7 not found interface 
+ERR_LOAD:Канал#8 not found interface 
+ERR_LOAD:Канал#9 not found interface 
+ERR_LOAD:Канал#10 not found interface 
+ERR_LOAD:Канал#11 not found interface 
+ERR_LOAD:Канал#12 not found interface 
+ERR_LOAD:Канал#13 not found interface 
+ERR_LOAD:Канал#14 not found interface 
+ERR_LOAD:Канал#15 not found interface 
+ERR_LOAD:Канал#16 not found interface 
+ERR_LOAD:AO_17_from_MFC not found interface 
+ERR_LOAD:Канал#18 not found interface 
+INF_LOAD:Found CH=31 Resource=0 ExtResurce=3 
